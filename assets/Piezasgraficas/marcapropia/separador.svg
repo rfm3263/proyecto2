@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 218.74">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_9-5);
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        opacity: .2;
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_9-2);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_9-3);
+      }
+
+      .cls-11 {
+        fill: url(#Degradado_sin_nombre_9-4);
+      }
+
+      .cls-13 {
+        fill: url(#Degradado_sin_nombre_6);
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_7);
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-15 {
+        fill: url(#Degradado_sin_nombre_9);
+        filter: url(#drop-shadow-6);
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-20);
+        stroke: url(#Degradado_sin_nombre_8);
+        stroke-width: 34.13px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        filter: url(#drop-shadow-9);
+        stroke-width: 91.2px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #d9375e;
+      }
+
+      .cls-16 {
+        fill: url(#Degradado_sin_nombre_10);
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-18 {
+        fill: #d9375e;
+        filter: url(#drop-shadow-27);
+      }
+
+      .cls-4 {
+        filter: url(#drop-shadow-18);
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 25.78px;
+      }
+
+      .cls-5 {
+        filter: url(#drop-shadow-19);
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-16);
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-17);
+      }
+
+      .cls-19 {
+        fill: url(#Degradado_sin_nombre_11);
+      }
+
+      .cls-12 {
+        fill: #ff9f00;
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-21 {
+        fill: url(#Degradado_sin_nombre_6-3);
+        filter: url(#drop-shadow-24);
+      }
+
+      .cls-22 {
+        fill: url(#Degradado_sin_nombre_6-2);
+        filter: url(#drop-shadow-21);
+      }
+
+      .cls-23 {
+        fill: url(#Degradado_sin_nombre_6-4);
+        filter: url(#drop-shadow-29);
+      }
+
+      .cls-24 {
+        fill: url(#Degradado_sin_nombre_6-5);
+        filter: url(#drop-shadow-30);
+      }
+
+      .cls-25 {
+        fill: url(#Degradado_sin_nombre_7-3);
+        filter: url(#drop-shadow-23);
+      }
+
+      .cls-26 {
+        fill: url(#Degradado_sin_nombre_7-5);
+        filter: url(#drop-shadow-31);
+      }
+
+      .cls-27 {
+        fill: url(#Degradado_sin_nombre_7-2);
+        filter: url(#drop-shadow-14);
+      }
+
+      .cls-28 {
+        fill: url(#Degradado_sin_nombre_7-4);
+        filter: url(#drop-shadow-28);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" y="6.06" width="1080" height="209"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="-91.13" y="-83.72" width="427.11" height="303.73"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="892.56" y1="-903.23" x2="892.56" y2="588.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a8bc0"/>
+      <stop offset="1" stop-color="#f28bc5"/>
+    </linearGradient>
+    <filter id="drop-shadow-2" x="854.32" y="-920.54" width="107" height="1557" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_9" data-name="Degradado sin nombre 9" x1="-6422.09" y1="-367.7" x2="-6422.09" y2="-1131.48" gradientTransform="translate(6951.63 1045.28)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d91d"/>
+      <stop offset=".18" stop-color="#f8d21d"/>
+      <stop offset=".44" stop-color="#f6be1d"/>
+      <stop offset=".75" stop-color="#f39f1d"/>
+      <stop offset="1" stop-color="#f1801e"/>
+    </linearGradient>
+    <filter id="drop-shadow-6" x="430.32" y="-103.54" width="229" height="829" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-2" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="-5977.21" y1="-927.19" x2="-5812.45" y2="-927.19" gradientTransform="translate(6951.63 1045.28)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d91d"/>
+      <stop offset="1" stop-color="#f1801e"/>
+    </linearGradient>
+    <filter id="drop-shadow-7" x="957.32" y="17.46" width="230" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-3" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="1056.67" y1="590.52" x2="1056.67" y2="200.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a8bc0"/>
+      <stop offset="1" stop-color="#f28bc8"/>
+    </linearGradient>
+    <filter id="drop-shadow-8" x="957.32" y="183.46" width="229" height="455" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-4" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" x="370.32" y="-395.54" width="639" height="990" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-5" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_7-2" data-name="Degradado sin nombre 7" x1="409.24" y1="597.76" x2="409.24" y2="-862.36" xlink:href="#Degradado_sin_nombre_7"/>
+    <filter id="drop-shadow-14" x="353.32" y="-879.54" width="143" height="1525" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-6" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-16" x="660.32" y="-32.54" width="140" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-7" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-17" x="660.32" y="33.46" width="140" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-8" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-18" x="660.32" y="171.46" width="140" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-9" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-19" x="660.32" y="105.46" width="140" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-10" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_8" data-name="Degradado sin nombre 8" x1="657.14" y1="177.19" x2="773.49" y2="177.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a8bc0"/>
+      <stop offset="1" stop-color="#f28bc8"/>
+    </linearGradient>
+    <filter id="drop-shadow-20" x="639.32" y="-311.54" width="182" height="1007" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-11" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6-2" data-name="Degradado sin nombre 6" x1="-5988" y1="-454.04" x2="-5988" y2="-1095.55" xlink:href="#Degradado_sin_nombre_6"/>
+    <filter id="drop-shadow-21" x="931.32" y="-67.54" width="95" height="706" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-12" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_7-3" data-name="Degradado sin nombre 7" x1="964.9" y1="-123.06" x2="964.9" y2="-18.79" xlink:href="#Degradado_sin_nombre_7"/>
+    <filter id="drop-shadow-23" x="895.32" y="-140.54" width="169" height="169" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-13" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6-3" data-name="Degradado sin nombre 6" x1="-6328.56" y1="-903.02" x2="-6328.56" y2="-736.88" xlink:href="#Degradado_sin_nombre_6"/>
+    <filter id="drop-shadow-24" x="522.32" y="124.46" width="231" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dx="14.74" dy="14.74"/>
+      <feGaussianBlur result="blur-14" stdDeviation="10.53"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_9-2" data-name="Degradado sin nombre 9" x1="-96.25" y1="106.79" x2="472.86" y2="106.79" gradientTransform="translate(81.51 295.1) rotate(-90)" xlink:href="#Degradado_sin_nombre_9"/>
+    <linearGradient id="Degradado_sin_nombre_9-3" data-name="Degradado sin nombre 9" x1="-96.25" y1="140.62" x2="466.93" y2="140.62" gradientTransform="translate(44.72 325.96) rotate(-90)" xlink:href="#Degradado_sin_nombre_9"/>
+    <linearGradient id="Degradado_sin_nombre_9-4" data-name="Degradado sin nombre 9" x1="-92.99" y1="176.19" x2="470.18" y2="176.19" gradientTransform="translate(12.41 364.78) rotate(-90)" xlink:href="#Degradado_sin_nombre_9"/>
+    <linearGradient id="Degradado_sin_nombre_9-5" data-name="Degradado sin nombre 9" x1="-96.25" y1="208.29" x2="506.69" y2="208.29" gradientTransform="translate(-3.07 413.51) rotate(-90)" xlink:href="#Degradado_sin_nombre_9"/>
+    <linearGradient id="Degradado_sin_nombre_11" data-name="Degradado sin nombre 11" x1="-123.82" y1="42.57" x2="594.03" y2="42.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d91d"/>
+      <stop offset=".18" stop-color="#f8d21d"/>
+      <stop offset=".44" stop-color="#f6be1d"/>
+      <stop offset=".75" stop-color="#f39f1d"/>
+      <stop offset="1" stop-color="#f1801e"/>
+    </linearGradient>
+    <filter id="drop-shadow-27" x="165.95" y="-464.9" width="523" height="1015" filterUnits="userSpaceOnUse">
+      <feOffset dx="15.34" dy="15.34"/>
+      <feGaussianBlur result="blur-15" stdDeviation="27.32"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_7-4" data-name="Degradado sin nombre 7" x1="404.44" y1="215.06" x2="762.28" y2="215.06" gradientTransform="translate(103.52 -180.3) rotate(19.25)" xlink:href="#Degradado_sin_nombre_7"/>
+    <filter id="drop-shadow-28" x="336.95" y="-277.9" width="523" height="1016" filterUnits="userSpaceOnUse">
+      <feOffset dx="15.34" dy="15.34"/>
+      <feGaussianBlur result="blur-16" stdDeviation="27.32"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6-4" data-name="Degradado sin nombre 6" x1="682.33" y1="36.81" x2="1040.17" y2="36.81" gradientTransform="translate(242.41 -294.88) rotate(19.25)" xlink:href="#Degradado_sin_nombre_6"/>
+    <filter id="drop-shadow-29" x="939.95" y="-480.9" width="238" height="1040" filterUnits="userSpaceOnUse">
+      <feOffset dx="15.34" dy="15.34"/>
+      <feGaussianBlur result="blur-17" stdDeviation="27.32"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6-5" data-name="Degradado sin nombre 6" x1="447.82" y1="27.28" x2="805.65" y2="27.28" gradientTransform="translate(44.03 -205.1) rotate(19.25)" xlink:href="#Degradado_sin_nombre_6"/>
+    <filter id="drop-shadow-30" x="380.95" y="-464.9" width="523" height="1015" filterUnits="userSpaceOnUse">
+      <feOffset dx="15.34" dy="15.34"/>
+      <feGaussianBlur result="blur-18" stdDeviation="27.32"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_7-5" data-name="Degradado sin nombre 7" x1="634.56" y1="227.27" x2="992.4" y2="227.27" gradientTransform="translate(242.41 -294.88) rotate(19.25)" xlink:href="#Degradado_sin_nombre_7"/>
+    <filter id="drop-shadow-31" x="831.95" y="-316.9" width="238" height="1040" filterUnits="userSpaceOnUse">
+      <feOffset dx="15.34" dy="15.34"/>
+      <feGaussianBlur result="blur-19" stdDeviation="27.32"/>
+      <feFlood flood-color="#212121" flood-opacity=".35"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Fondo">
+    <rect y="-324.94" width="1080" height="1080"/>
+  </g>
+  <g id="Patron">
+    <g class="cls-20">
+      <rect class="cls-1" x="-91.13" y="-860.63" width="1080" height="1080"/>
+      <line class="cls-1" x1="830.81" y1="7.29" x2="811.99" y2="23.82"/>
+      <g class="cls-17">
+        <g>
+          <rect class="cls-16" x="871.82" y="-903.23" width="41.47" height="1491.69"/>
+          <rect class="cls-15" x="447.28" y="-86.19" width="164.5" height="763.78"/>
+          <path class="cls-13" d="M1139.18,201.72h-164.77V34.47c79.71,16.15,143.71,81.93,164.77,167.25Z"/>
+          <rect class="cls-14" x="974.42" y="200.6" width="164.5" height="389.92"/>
+          <path class="cls-3" d="M399.01-320.76c15.69-3.87,31.7-6.83,48.02-8.85,17.04-2.12,34.4-3.22,52-3.22,20.4,0,40.47,1.46,60.08,4.31,132.58,19.11,244.98,100.61,306.54,213.76,32.14,59.14,50.42,126.93,50.42,198.97,0,6.19-.13,12.35-.4,18.46-9.65,221.76-192.5,398.57-416.63,398.57-34.47,0-67.98-4.18-100.02-12.06"/>
+          <polygon class="cls-27" points="448.23 392.9 448.23 -862.36 370.25 -862.36 370.25 314.93 370.25 314.93 370.25 597.76 448.24 597.76 448.24 392.91 448.23 392.9"/>
+          <line class="cls-6" x1="678.16" y1="-1.98" x2="752.76" y2="-1.98"/>
+          <line class="cls-7" x1="678.16" y1="64.14" x2="752.76" y2="64.14"/>
+          <line class="cls-4" x1="678.16" y1="201.6" x2="752.76" y2="201.6"/>
+          <line class="cls-5" x1="678.16" y1="135.48" x2="752.76" y2="135.48"/>
+          <rect class="cls-2" x="674.21" y="-276.87" width="82.22" height="908.12"/>
+          <rect class="cls-22" x="948.37" y="-50.27" width="30.52" height="641.51"/>
+          <circle class="cls-25" cx="964.9" cy="-70.92" r="52.13"/>
+          <circle class="cls-21" cx="623.07" cy="225.33" r="83.07"/>
+        </g>
+      </g>
+      <rect class="cls-9" x="179.59" y="-177.76" width="17.42" height="569.1" transform="translate(295.1 -81.51) rotate(90)"/>
+      <rect class="cls-10" x="176.63" y="-140.96" width="17.42" height="563.17" transform="translate(325.96 -44.72) rotate(90)"/>
+      <rect class="cls-11" x="179.89" y="-105.4" width="17.42" height="563.17" transform="translate(364.78 -12.41) rotate(90)"/>
+      <rect class="cls-8" x="196.51" y="-93.18" width="17.42" height="602.93" transform="translate(413.51 3.07) rotate(90)"/>
+      <polygon class="cls-19" points="-93.73 6.06 -93.73 44.88 -93.73 44.91 -93.73 79.08 431.22 79.08 431.22 44.91 431.22 44.88 431.22 6.06 -93.73 6.06"/>
+      <rect class="cls-18" x="375.41" y="-410.53" width="73.25" height="875.62" transform="translate(14.04 137.37) rotate(-19.25)"/>
+      <rect class="cls-28" x="546.74" y="-222.76" width="73.25" height="875.62" transform="translate(-38.29 204.35) rotate(-19.25)"/>
+      <rect class="cls-23" x="1006.75" y="-414" width="73.25" height="875.62"/>
+      <rect class="cls-24" x="590.11" y="-410.53" width="73.25" height="875.62" transform="translate(26.05 208.15) rotate(-19.25)"/>
+      <g>
+        <g>
+          <circle class="cls-12" cx="804.43" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="37.03" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="60.66" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="84.19" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="108.06" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="131.58" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="155.79" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="179.32" r="5.51"/>
+          <circle class="cls-12" cx="804.43" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="824.4" cy="12.93" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="36.57" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="60.09" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="83.96" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="107.48" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="131.69" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="155.22" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="824.4" cy="202.61" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="844.71" cy="13.04" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="36.57" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="60.43" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="83.96" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="108.17" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="131.69" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="155.56" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="844.71" cy="202.73" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="864.9" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="37.37" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="60.89" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="85.11" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="108.63" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="132.5" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="156.02" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="179.66" r="5.51"/>
+          <circle class="cls-12" cx="864.9" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="884.87" cy="13.27" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="36.8" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="61.01" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="84.53" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="108.4" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="131.92" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="155.56" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="884.87" cy="202.95" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="706.84" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="37.03" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="60.66" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="84.19" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="108.06" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="131.58" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="155.79" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="179.32" r="5.51"/>
+          <circle class="cls-12" cx="706.84" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="686.89" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="37.03" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="60.66" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="84.19" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="108.06" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="131.58" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="155.79" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="179.32" r="5.51"/>
+          <circle class="cls-12" cx="686.89" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="666.94" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="37.03" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="60.66" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="84.19" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="108.06" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="131.58" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="155.79" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="179.32" r="5.51"/>
+          <circle class="cls-12" cx="666.94" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="726.81" cy="12.93" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="36.57" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="60.09" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="83.96" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="107.48" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="131.69" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="155.22" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="726.81" cy="202.61" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="747.12" cy="13.04" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="36.57" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="60.43" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="83.96" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="108.17" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="131.69" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="155.56" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="747.12" cy="202.73" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="767.31" cy="13.5" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="37.37" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="60.89" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="85.11" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="108.63" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="132.5" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="156.02" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="179.66" r="5.51"/>
+          <circle class="cls-12" cx="767.31" cy="203.18" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="787.28" cy="13.27" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="36.8" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="61.01" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="84.53" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="108.4" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="131.92" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="155.56" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="787.28" cy="202.95" r="5.51"/>
+        </g>
+        <g>
+          <circle class="cls-12" cx="904.68" cy="13.27" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="36.8" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="61.01" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="84.53" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="108.4" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="131.92" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="155.56" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="179.09" r="5.51"/>
+          <circle class="cls-12" cx="904.68" cy="202.95" r="5.51"/>
+        </g>
+      </g>
+      <rect class="cls-26" x="898.86" y="-249.94" width="73.25" height="875.62"/>
+    </g>
+  </g>
+</svg>
